@@ -11,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/archit-mittal-a53771290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-mangal-679157229" height="30" width="40" /></a>
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rocky_ritikk" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/archit-mittal-a53771290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -62,11 +63,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<br>
+<div>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=architmittal01&show_icons=true&locale=en&layout=compact" alt="architmittal" /></p>
 
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=architmittal01&show_icons=true&locale=en" alt="architmittal01" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=architmittal01&show_icons=true&locale=en&layout=compact" alt="architmittal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=architmittal01&show_icons=true&locale=en" alt="architmittal01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=architmittal01&" alt="architmittal01" /></p>
+</div>
+<div align="center">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=architmittal01&" alt="architmittal01" /></p>
+</div>
